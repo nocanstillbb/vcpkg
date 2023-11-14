@@ -1,6 +1,12 @@
 {
   "name": "rc-genicam-api",
   "version-semver": "1.0.0",
-  "port-version": 1,
-  "description": "genicam api"
+  "port-version": 4,
+  "description": "genicam api",
+  "dependencies": [
+    {
+      "name": "vcpkg-cmake",
+      "host": true
+    }
+  ]
 }

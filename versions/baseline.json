@@ -7336,6 +7336,10 @@
       "baseline": "3.2.0",
       "port-version": 2
     },
+    "rc-genicam-api": {
+      "baseline": "1.0.0",
+      "port-version": 4
+    },
     "re2": {
       "baseline": "2023-07-01",
       "port-version": 0
