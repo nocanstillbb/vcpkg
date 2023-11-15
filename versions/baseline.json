@@ -6718,7 +6718,7 @@
     },
     "prism": {
       "baseline": "1.0.0",
-      "port-version": 2
+      "port-version": 3
     },
     "prism-container": {
       "baseline": "1.0.0",
