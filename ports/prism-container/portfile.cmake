@@ -1,11 +1,11 @@
 vcpkg_from_git(
   OUT_SOURCE_PATH SOURCE_PATH
   URL http://git1.deepvision-tech.net/PACKAGES/prism_container.git
-  REF 83815100eec15306af6d888bbc547ed1b896e858
+  REF 358b017100b1bdbef68b8c51bfbeec1aa7297a46
   HEAD_REF master
 )
 
-
+string(REPLACE "::" "_" PORT "${PORT}")
 
 #https://learn.microsoft.com/en-us/vcpkg/examples/packaging-github-repos
 vcpkg_cmake_configure( SOURCE_PATH "${SOURCE_PATH}")
