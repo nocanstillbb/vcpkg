@@ -6724,6 +6724,10 @@
       "baseline": "1.0.0",
       "port-version": 7
     },
+    "prism-qt-core": {
+      "baseline": "1.0.0",
+      "port-version": 2
+    },
     "prism-qt-modular": {
       "baseline": "1.0.0",
       "port-version": 4
