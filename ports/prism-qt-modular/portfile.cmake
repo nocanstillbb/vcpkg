@@ -1,7 +1,7 @@
 vcpkg_from_git(
   OUT_SOURCE_PATH SOURCE_PATH
   URL http://git1.deepvision-tech.net/PACKAGES/prism_qt_modular.git
-  REF db8a0bc4c0628e813a876ddbd4799b1ae566a005
+  REF e9a392c6c4542ab1fe655d6c961288092d8f79dd
   HEAD_REF master
 )
 
