@@ -29,10 +29,4 @@ file(
 
 
 
-# 设置 spdx 文件的输出路径
-set(SPDX_OUTPUT_PATH "${CURRENT_PACKAGES_DIR}/share/${PORT}")
-install(FILES ${CMAKE_CURRENT_LIST_DIR}/vcpkg.spdx.json DESTINATION ${SPDX_OUTPUT_PATH})
-# 设置 ABI 文件的输出路径
-set(ABI_OUTPUT_PATH "${CURRENT_PACKAGES_DIR}/share/${PORT}")
-install(FILES ${CMAKE_CURRENT_BINARY_DIR}/vcpkg_abi_info.txt DESTINATION ${ABI_OUTPUT_PATH})
 
