@@ -1,7 +1,7 @@
 {
   "name": "prism",
   "version": "1.0.0",
-  "port-version": 2,
+  "port-version": 3,
   "description": "a static reflect library of c++",
   "homepage": "https://github.com/cpp-prism/prism",
   "supports": "(windows & !arm & !uwp) | osx | (linux & !arm)",

@@ -1,7 +1,7 @@
 vcpkg_from_git(
   OUT_SOURCE_PATH SOURCE_PATH
   URL http://git1.deepvision-tech.net/PACKAGES/prism.git
-  REF 8d9509280480ebfa16874c81909190f32f29f14a
+  REF 48bc3a22e07b304da4de312c1658319704959174
   HEAD_REF master
 )
 
