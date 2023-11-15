@@ -1,7 +1,7 @@
 {
   "name": "prism-container",
   "version": "1.0.0",
-  "port-version": 3,
+  "port-version": 4,
   "description": "prism ioc container",
   "homepage": "https://github.com/cpp-prism/prism_container",
   "supports": "(windows & !arm & !uwp) | osx | (linux & !arm)",
