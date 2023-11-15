@@ -1,7 +1,7 @@
 vcpkg_from_git(
   OUT_SOURCE_PATH SOURCE_PATH
   URL http://git1.deepvision-tech.net/PACKAGES/rc_genicam_api.git
-  REF d553966c3dd0c92460392dca8282f13ee3fa4aa8
+  REF 3c6e11cf2779dcece9360da7f15060054deddb75
   HEAD_REF master
 )
 
