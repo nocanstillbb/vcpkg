@@ -5,7 +5,6 @@ vcpkg_from_git(
   HEAD_REF master
 )
 
-string(REPLACE "-" "_" PORT "${PORT}")
 
 #https://learn.microsoft.com/en-us/vcpkg/examples/packaging-github-repos
 vcpkg_cmake_configure( SOURCE_PATH "${SOURCE_PATH}")
